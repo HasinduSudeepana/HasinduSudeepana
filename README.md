@@ -5,7 +5,7 @@
 
 - 🤝 I’m interesting to **Share my knowledge**
 
-- 👨‍💻 All of my projects are available in my [repositories](repositories)
+- 👨‍💻 All of my projects are available in my **repositories**
 
 - 📫 How to reach me **hasindukarunathilaka343@gmail.com**
 
