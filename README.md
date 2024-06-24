@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hasindu Karunathilaka</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 🔭 I’m currently working on **NodeJs Project**
+- 🔭 I’m currently working on **React,Springboot Project**
 
 - 🤝 I’m interesting to **Share my knowledge**
 
